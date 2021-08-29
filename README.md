@@ -1,0 +1,1 @@
+# smartHomeVersion2
